@@ -7,7 +7,7 @@ To change the time interval you must select in dune the option "since first bloc
 
 This dashboard is predefined to calculate from the first block time
 
-You can view the final dashboard: [Unlock-Dashboard/nextjs](unlock-dashboard.vercel.app)
+You can view the final dashboard: [Unlock-Dashboard/nextjs](https://unlock-dashboard.vercel.app)
 
 <h1>Dune</h1>
  * I uploaded the  smart contracts for each network to Dune Analytics
