@@ -28,7 +28,8 @@ You can view the final dashboard: [Unlock-Dashboard/nextjs](https://unlock-dashb
 [Unlock-Dashboard](https://dune.xyz/manyrios56/Unlock-Eth)
 
 
-Getting Started
+<h1>Getting Started</h1>
+
 First, run the development server:
 
 npm run dev
