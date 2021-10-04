@@ -47,7 +47,7 @@ const Xdai = ({price, network}) => {
             <Card className="w-100 px-3  py-5 ">
     
                 <Card.Title>Total GDP</Card.Title>
-                <Card.Text>{`${state} `}<span className="bold">ETH</span></Card.Text>
+                <Card.Text>{`${state} `}<span className="bold">xDai</span></Card.Text>
                 <Card.Title>Total USD</Card.Title>
                 <Card.Text>{total}</Card.Text>
             </Card>
